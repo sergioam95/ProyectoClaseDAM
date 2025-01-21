@@ -23,8 +23,4 @@ public class MVC {
         c.muestraDatos(loro);
                 
     }
-    hola que tal
-            hola
-            hola que tal
-                    muy bien
 }
